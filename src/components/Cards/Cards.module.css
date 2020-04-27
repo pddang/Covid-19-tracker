@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    margin: 50px 0;
+  }
+  h1,h2,h3,h4,h5 {
+      text-align: center;
+  }
+  .lastUpdate {
+    text-align: center;
+    color: #222831;
+  }
+  
+  .card {
+    margin: 0 2% !important;
+    text-align: center;
+    width: 350px!important;
+  }
+  
+  .confirmed {
+    color: #f4a548;
+  }
+  .confirmedText{
+      background: #f4a548;
+      color: white;
+  }
+  
+  .recovered {
+    color: #7ebdb4;
+  }
+  .recoveredText{
+      background: #7ebdb4;
+      color: white;
+  }
+
+  .deaths {
+    color: #c70039;
+  }
+  .deathsText{
+      background: #c70039;
+      color: white;
+  }
+
+
+  
+  @media only screen and (max-width: 770px) {
+    .card {
+      margin: 2% 0 !important;
+      width: 50%;
+    }
+  }
