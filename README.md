@@ -28,6 +28,6 @@ Your app is ready to be deployed!
 
 [API Document](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/).<br />
 To learn Material-UI, check out the [Material-UI documentation](https://material-ui.com).
 
