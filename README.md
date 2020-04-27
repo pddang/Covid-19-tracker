@@ -1,10 +1,12 @@
 This project is live at [this website](https://github.com/facebook/create-react-app).
 
+## Demo 
+[!Image Description](https://github.com/pddang/Covid-19-tracker/blob/master/screenshot.png)
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `git clone ` [https://github.com/pddang/Covid-19-tracker]
+### `git clone https://github.com/pddang/Covid-19-tracker`
 
 To clone the project.<br />
 
