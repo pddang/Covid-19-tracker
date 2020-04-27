@@ -1,7 +1,7 @@
 This project is live at [this website](https://github.com/facebook/create-react-app).
 
 ## Demo 
-[!Image Description](https://github.com/pddang/Covid-19-tracker/blob/master/screenshot.png)
+![](https://github.com/pddang/Covid-19-tracker/blob/master/screenshot.png)
 ## Available Scripts
 
 In the project directory, you can run:
