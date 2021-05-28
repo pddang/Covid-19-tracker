@@ -1,4 +1,4 @@
-This project is live at [this website](https://github.com/facebook/create-react-app).
+This project is live at [this website](https://coronavirus2020tracker.herokuapp.com).
 
 ## Demo 
 ![](https://github.com/pddang/Covid-19-tracker/blob/master/screenshot.png)
